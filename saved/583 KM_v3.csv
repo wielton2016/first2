@@ -1,0 +1,68 @@
+"Order No (v3)";"583 KM"
+"PL order No.";
+Client;stock
+"Delivery address to client";Tocco
+VIN;ZB3M300010Y066806
+"Production slot (week)";5
+Units;1
+Brand;Viberti
+Category;"NS3K/KB/KO M2-IT (107mm neck)"
+Typ;NS3KBM3-IT
+"axle producer";"SAF Disc"
+Calliper;Knorr
+options;"Knorr callipers, for paletbox 32 long, Curtainsider with dropsides"
+"upper structure type";"Curtainsider with dropsides"
+"hinges for dropsides";YES
+"pocket for hestal pillars";YES
+"long palletbox";YES
+"pockets for 80x80 pillars";none
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1145
+"wheel size";385/65/R22,5
+wheels*;"6x  CONTINENTAL HT3, 6x  steel rims"
+"steering axle";NO
+"axle type";"BI9-22S01 IU30/2505 33 2040-1300 (Integral, Knorr brake callipers/zaciski hamulcowe)"
+"Chassis PDM drawing";P211-K030400
+"QAD NR";K234237
+"steering axle crossbeam";
+"front wall";"Viberti front wall"
+"upper structure";"M3 (aluminium rear pillars and doors, all elements from PL)"
+"roof type";"lift to load"
+"double plywood on front wall";NO
+"internal heights";2700
+"upper structure planks";"3 rows of alu planks 100mm"
+"planks holder";"W125086 - left"
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/up/215
+"accesory, boxes and wheel holders, 1";"toolbox Jbz700 (W191948) + wheel basket (W015165 for ET-120 or W185514 for ET-0)"
+"accesory, boxes and wheel holders, 2";"ADR:extinguisher, extinguisher toolbox on landing leg (W983059), ADR plate,  grounding strap (m07050305), assembly wedges on mail beam (2x W100067) becouse of extinguisher box"
+"accesory, side protection";"side protection when adopted for long paletbox (O204-K032615)"
+"Break pad wear sensors";"Knorr break pad wear sensors K025586 (Knorr sensors+WABCO wire 449 816 030 0)"
+"rear buffer";"roll stop- W184261"
+mudguards;"full mudguards with rainflaps only on rear axle (W973391)"
+"ferry rings";YES
+"lashing rings for fixing goods inside semi.";YES
+"1st axle lifted (steering from the cabin)";YES
+"1st and 3rd axle lifted (steering from the cabin)";NO
+Hubodometer;NO
+Lights;"Aspock Europoint III (with bulbs)"
+"tire from Poland";NO
+"rims from Poland";NO
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"Front pillar";"Standard RAL9006"
+"Rear pillar";"Standard RAL9006"
+"Front wall color";"Standard RAL9006"
+"Rear door";Original
+Hestal;Original
+"tarpaulin No.";none
+"tarpaulin color";default
+"tarpaulin with graphic";NO
+"back doors with graphic";NO
+"information abour standard configuration";"brake system is Wabco, steel air tanks (120 litre total, 2x K034285)"
+"Non standard description";"CURTAINSIDER WITH DROPSIDES H800
+planks holder supplied by Wielton not mounted
+3 rows of alu planks"

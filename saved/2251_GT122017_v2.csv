@@ -1,0 +1,73 @@
+"Order No (v2)";2251_GT122017
+"PL order No.";
+Client;"DOLCINO DAVIDE"
+"Delivery address to client";Podenzano
+VIN;ZB3M300010Y066837
+"Production slot (week)";9
+Units;1
+Brand;Viberti
+Category;"Coil (107mm neck)"
+Typ;NS3KRM3-IT
+"axle producer";"SAF Disc"
+Calliper;Knorr
+options;"Knorr calliper, curtainsider, long paletbox, 2 pockets in front, 2 in rear,6 pairs of pockets in side profiles for 80x80 pillars"
+"upper structure type";curtainsider
+"hinges for dropsides";NO
+"pocket for hestal pillars";YES
+"long palletbox";YES
+"pockets for 80x80 pillars";"2 pockets in front, 2 in rear,6 pairs of pockets in side profiles for 80x80 pillars"
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1145
+"wheel size";385/65/R22,5
+wheels*;"7x  BRIDGESTONE R168, 7x  steel rims"
+"steering axle";YES
+"axle type";"BILL9-22S01 IU30/2505 33 2040-1300 (Integral, Knorr brake callipers/zaciski hamulcowe)"
+"Chassis PDM drawing";P090-K032520
+"QAD NR";K234253
+"steering axle crossbeam";"2 291 0449 00"
+"front wall";"Viberti front wall"
+"upper structure";"M3 (aluminium rear pillars and doors, all elements from PL)"
+"roof type";"lift to load"
+"double plywood on front wall";NO
+"internal heights";2700
+"upper structure planks";"4 rows of alu planks 100mm (1 on floor + 3 per section)"
+"planks holder";none
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/up/215
+"accesory, boxes and wheel holders, 1";"toolbox Jbz700 (W191948) + wheel basket (W015165 for ET-120 or W185514 for ET-0)"
+"accesory, boxes and wheel holders, 2";none
+"accesory, other, 1";"4 pillars for Coil H-1500mm, 2x W218828  (one W218828 includes: 2x pillar W212304, 1x crossbeam W212266, 1x strap M141224)"
+"accesory, other, 2";"8 pillars for Coil H-1500mm, 4x W218828  (one W218828 includes: 2x pillar W212304, 1x crossbeam W212266, 1x strap M141224)"
+"accesory, side protection";"side protection when adopted for long paletbox (O204-K032615)"
+"accessory 1";"Pommier document box 3805130, bought and assembled by IR"
+"Break pad wear sensors";"Knorr break pad wear sensors K025586 (Knorr sensors+WABCO wire 449 816 030 0)"
+"rear buffer";"roll stop- W184261"
+mudguards;"full mudguards with rainflaps only on rear axle (only for fifth wheel 1200 use W973391, for the rest use W999728)"
+"ferry rings";"YES (K234898)"
+"lashing rings for fixing goods inside semi.";NO
+"1st axle lifted (steering from the cabin)";NO
+"1st and 3rd axle lifted (steering from the cabin)";NO
+Hubodometer;NO
+"Antispray on all mudguards";NO
+Lights;"Aspock Europoint III (with bulbs)"
+"tire from Poland";NO
+"rims from Poland";NO
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"Front pillar";"Standard RAL9006"
+"Rear pillar";"Standard RAL9006"
+"Front wall color";"Standard RAL9006"
+"Rear door";Original
+Hestal;Original
+"tarpaulin No.";none
+"tarpaulin color";default
+"tarpaulin with graphic";NO
+"back doors with graphic";NO
+"information abour standard configuration";"brake system is Wabco, steel air tanks (120 litre total, 2x K234810)"
+"Non standard description";"BPW FIX AXLES!
+planks not supplied by PL 
+tarpaulin blue to deifne XL
+"

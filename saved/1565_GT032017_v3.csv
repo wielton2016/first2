@@ -1,0 +1,48 @@
+"Order No (v3)";1565_GT032017
+"PL order No.";QR0192,QR0193
+Client;"Testa Tiziano"
+"Delivery address to client";Orab
+VIN;ZB3M31220GN066226-ZB3M31220GN066227
+"Production slot (week)";17
+Units;2
+Brand;Viberti
+Category;"Mutti, 20-tank"
+Typ;"NS3P20 Tank-IT"
+"axle producer";"BPW Disc"
+"Nominal5 wheel";1230
+"(real 5 wheel)";1230
+"wheel size";385/65/R22,5
+wheels*;"6x  BRIDGESTONE R164, 6x  aluminum Brushed rims"
+"steering axle";NO
+"axle type";"BPW AC.BM SHBF 9010 (T) 2140-1300 V30"
+"Chassis PDM drawing";P088-W998271
+"QAD NR";W998271
+"landing legs/shaft length/foot/position/ground dis.";B0603/1500/S/up/289
+toolbox;"toolbox Jbz700 (W998987)"
+"wheel holder";"spare wheel winch (W030434 for ET120)"
+"accesory, other, 1";"Reflective tape on both sides (white), reflective tape on rear (YELLOW)"
+"accesory, other, 2";"ADR:extinguisher, extinguisher toolbox (W981125), ADR plate (W996026),  grounding strap (m07050305)"
+"accesory, other, 3";"Yellow check point for wheel nuts (60 x m182207)"
+"full mudguards";YES
+"ferry rings";YES
+"1st axle lifted (steering from the cabin)";NO
+"3rd axle lifted (steering from the cabin)";YES
+Hubodometer;YES
+"Antispray on all mudguards";NO
+Lights;"Europoint II"
+"tire from Poland";YES
+"rims from Poland";YES
+"Electric socket";"1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total), Inox backwater tank with inox catwalk and valve to discharge, rear ledder"
+"Non standard description";"Third liftig axle. First axle fixed.
+PVC tool box with lock
+Reflective tape on both sides (white)
+Reflective tape on rear (YELLOW)
+ADR equipment for container chassis type homologation FL-OX-AT
+Inox backwater tank with inox catwalk and valve to discharge
+Rear ledder
+Yellow check point for wheel nuts
+"

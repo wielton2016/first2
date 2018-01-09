@@ -1,0 +1,61 @@
+"Order No (v9)";2200_FP112017
+"PL order No.";WS0390
+Client;"CONCA RIMORCHI"
+"Delivery address to client";"Tocco da Casauria"
+VIN;ZB3M300010Y066778
+"Production slot (week)";3
+Units;1
+Brand;Viberti
+Category;Strong
+Typ;NS3KBM2-IT-Strong
+"axle producer";"BPW Disc"
+options;"for palletbox , without landing legs reinforcement,13 pairs of lash rings, with hestal pockets, Curtainsider with dropside, for upperstructure with aluminium rear pillars and doors and steel front wall"
+"upper structure type";"Curtainsider with dropsides"
+"hinges for dropsides";YES
+"pocket for hestal pillars";YES
+"long palletbox";YES
+"pockets for 80x80 pillars";none
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1150
+"wheel size";385/65/R22,5
+wheels*;"6x  MICHELIN Mulit T, 6x  aluminum DURA BRIGHT rims"
+"steering axle";YES
+"axle type";"SHBFH..LL  9010 ALMT D430-TSB OF120 1300 - 2040 "
+"Chassis PDM drawing";P118-K234760
+"QAD NR";K234760
+"steering axle crossbeam";-
+dropside;"K031360- H800-L3185-bolted with eyelets fixed to 2nd plank from bottom"
+"front wall";"Viberti front wall"
+"upper structure";"M3 (aluminium rear pillars and doors, all elements from PL)"
+"roof type";"lift to load"
+"double plywood on front wall";NO
+"internal heights";2700
+"upper structure planks";"3 rows of alu planks 100mm"
+"planks holder";"K032534- assembled left"
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/down/220
+"lashing rings for fixing goods inside semi.";"13 pairs of lashing rings"
+"1st axle lifted (steering from the cabin)";"not recommended, with this 5th wheel height and wheel size"
+Lights;"EcoLED  (Full LED)"
+"tire from Poland";YES
+"rims from Poland";YES
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"Front pillar";"Standard RAL9006"
+"Rear pillar";"Standard RAL9006"
+"Front wall color";"Standard RAL9006"
+"Rear door";Original
+Hestal;Original
+"tarpaulin No.";none
+"tarpaulin color";default
+"tarpaulin with graphic";NO
+"back doors with graphic";NO
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total)"
+"Non standard description";"Curtainsider with dropside (dropside 800 mm)!!!
+3 rows of alu planks
+SIDE PILLARS PAINTED RAL 9006
+SIDE BOARDS RAL 9006
+no tarpaulin"

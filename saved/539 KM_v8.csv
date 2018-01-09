@@ -1,0 +1,43 @@
+"Order No (v8)";"539 KM"
+"PL order No.";QS0017
+Client;STOCK
+"Delivery address to client";Tocco
+VIN;ZB3M31245CC066739
+"Production slot (week)";3
+Units;1
+Brand;Viberti
+Category;"Container flat   -  with 30 central(8 cross beams)"
+Typ;"NS3P40-IT Flat"
+"axle producer";"SAF Disc"
+Calliper;Haldex
+options;"first lift axle, with platform"
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1150
+"wheel size";385/55/R22,5
+wheels*;"6x BRIDGESTONE R168, 6x  steel rims"
+"steering axle";NO
+"axle type";"B9-22S IO37/2500 42 2040-1300 CD (Haldex brake callipers/zaciskie hamulcowe)"
+"Chassis PDM drawing";P173-K058780
+"QAD NR";K033352
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/-/290
+"accesory, boxes and wheel holders, 1";"toolbox Jbz700 (W973797) assembled on rear"
+"accesory, boxes and wheel holders, 2";"wheel basket (W015165 for ET-120 or W185514 for ET-0)"
+"accessory 1";"ADR: extinguisher, extinguisher toolbox on landing leg(W983059), ADR plate, grounding strap (m07050305), assembly one wedge on mail beam (W100067) becouse of extinguisher box"
+"Break pad wear sensors";"brake pad wear sensors K178000 (3424203300 HALDEX +WABCO wire 449 816 030 0)"
+"full mudguards";YES
+"ferry rings";YES
+"1st axle lifted (steering from the cabin)";YES
+"1st and 3rd axle lifted (steering from the cabin)";NO
+Hubodometer;NO
+"Antispray on all mudguards";NO
+Lights;"Europoint II"
+"tire from Poland";YES
+"rims from Poland";YES
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total), Speed limits 70 and 80 on the rear (K033319)"
+"Non standard description";

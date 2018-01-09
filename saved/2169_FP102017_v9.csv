@@ -1,0 +1,67 @@
+"Order No (v9)";2169_FP102017
+"PL order No.";WS0157
+Client;"Romana Diesel"
+"Delivery address to client";
+VIN;ZB3M300010Y066714
+"Production slot (week)";1
+Units;1
+Brand;Viberti
+Category;"NS3K/KB/KO M2-IT (107mm neck)"
+Typ;NS3KBM3-IT
+"axle producer";"SAF Disc"
+Calliper;Knorr
+options;"Knorr callipers, Curtainsider with dropsides, adopted for rear lift"
+"upper structure type";"Curtainsider with dropsides"
+"hinges for dropsides";YES
+"pocket for hestal pillars";YES
+"long palletbox";NO
+"pockets for 80x80 pillars";none
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1145
+"wheel size";385/65/R22,5
+wheels*;"6x tire, 6x rims"
+"steering axle";NO
+"axle type";"BI9-22S01 IU30/2505 33 2040-1300 (Integral, Knorr brake callipers/zaciski hamulcowe)"
+"Chassis PDM drawing";O294-K032760
+"QAD NR";K234321
+dropside;"K031360- H800-L3185-bolted with eyelets fixed to 2nd plank from bottom"
+"front wall";"Viberti front wall"
+"upper structure";"M3 (aluminium rear pillars and doors, all elements from PL)"
+"roof type";"lift to load"
+"internal heights";2700
+"upper structure planks";"3 rows of alu planks 100mm"
+"planks holder";"W125086 - left"
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/up/324
+"accesory, boxes and wheel holders, 1";"toolbox Jbz700 (W191948)"
+"accesory, boxes and wheel holders, 2";"double wheel basket (W755340)"
+"accesory, other, 1";none
+"accesory, side protection";"side protection standard(2x w030388+ 4x M142301)"
+"accessory 1";"ADR:extinguisher, extinguisher toolbox on landing leg (W983059), ADR plate,  grounding strap (m07050305), assembly wedges on mail beam (2x W100067) becouse of extinguisher box"
+"Break pad wear sensors";"Knorr break pad wear sensors K025586 (Knorr sensors+WABCO wire 449 816 030 0)"
+"rear buffer";"roll stop- W184261"
+"ferry rings";YES
+"lashing rings for fixing goods inside semi.";YES
+"1st axle lifted (steering from the cabin)";YES
+Lights;"Aspock Europoint III (with bulbs)"
+"tire from Poland";NO
+"rims from Poland";NO
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"Front pillar";"Standard RAL9006"
+"Rear pillar";"Standard RAL9006"
+"Rear door";Original
+Hestal;Original
+"tarpaulin No.";none
+"tarpaulin color";default
+"tarpaulin with graphic";NO
+"back doors with graphic";NO
+"information abour standard configuration";"brake system is Wabco, steel air tanks (120 litre total, 2x K034285)"
+"Non standard description";"M3 version , aluminum doors from pl 
+knorr caliper ,                             
+EP3
+steel airtanks 2x60
+all included"

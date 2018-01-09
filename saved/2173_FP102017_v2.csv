@@ -1,0 +1,66 @@
+"Order No (v2)";2173_FP102017
+"PL order No.";
+Client;Mossucca
+"Delivery address to client";"Tocco "
+VIN;"from ZB3M300010Y066818 to ZB3M300010Y066827"
+"Production slot (week)";7
+Units;10
+Brand;Viberti
+Category;"NS3K/KB/KO MM2-IT-01 (80 mm neck)"
+Typ;NS3KMM2-IT
+"axle producer";"SAF Disc"
+Calliper;Haldex
+options;curtainsider
+"upper structure type";curtainsider
+"hinges for dropsides";NO
+"pocket for hestal pillars";YES
+"long palletbox";NO
+"pockets for 80x80 pillars";none
+KTL;YES
+"Nominal5 wheel";1050
+"(real 5 wheel)";1045
+"wheel size";385/55/R22,5
+wheels*;"7x  MICHELIN Mulit T, 7x rims"
+"steering axle";NO
+"axle type";"BI9-22S IU28/2005 33 2040-1300 (Integral, Haldex brake callipers/zaciskie hamulcowe)"
+"Chassis PDM drawing";P184-K030120
+"QAD NR";K030867
+"front wall";"Aluminium front wall"
+"upper structure";"M3 (aluminium rear pillars and doors, all elements from PL)"
+"roof type";multipoint
+"double plywood on front wall";NO
+"internal heights";2850
+"upper structure planks";"5 rows of alu planks 100mm (1 on floor + 4 per section)"
+"planks holder";none
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/up/198
+"accessory 1";"2x spare wheel winch (W195853 for ET 120) + toolbox Jbz700 (W191948)"
+"accessory 2";"Pallet stoppers (8x W185358)"
+"Break pad wear sensors";"brake pad wear sensors K178000 (3424203300 HALDEX +WABCO wire 449 816 030 0)"
+"rear buffer";"roll stop- W184261"
+"full mudguards";YES
+"ferry rings";YES
+"lashing rings for fixing goods inside semi.";NO
+"1st axle lifted (steering from the cabin)";NO
+"1st and 3rd axle lifted (steering from the cabin)";NO
+"Antispray on all mudguards";YES
+Lights;other
+"tire from Poland";NO
+"rims from Poland";NO
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"Front pillar";"Standard RAL9006"
+"Rear pillar";"Standard RAL9006"
+"Front wall color";"Standard RAL9006"
+"Rear door";Original
+Hestal;Original
+"tarpaulin No.";none
+"tarpaulin color";default
+"tarpaulin with graphic";NO
+"back doors with graphic";NO
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total), side profile with safety lock"
+"Non standard description";"upperstucture wielton (front wall in alluminum, front and rear pillar in alluminum, system to lift each pillars)
+tarapulin XL
+steel protection for the floor (anti slipery plate on the rear)"

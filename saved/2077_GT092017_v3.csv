@@ -1,0 +1,55 @@
+"Order No (v3)";2077_GT092017
+"PL order No.";
+Client;"SIAT Spa"
+"Delivery address to client";"Orab (PC)"
+VIN;ZB3M300010Y066815
+"Production slot (week)";4
+Units;1
+Brand;Viberti
+Category;"NS3K/KB/KO M2-IT (107mm neck)"
+Typ;NS3K0M2-IT
+"axle producer";"SAF Disc"
+Calliper;Haldex
+options;"<span style=""text-decoration: line-through,"">for paletbox 32 long, Platform, no saftylock</span>  for palletbox32 long, Platform, with safetylock "
+"upper structure type";platform
+"hinges for dropsides";NO
+"pocket for hestal pillars";NO
+"long palletbox";YES
+"pockets for 80x80 pillars";none
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1145
+"wheel size";385/65/R22,5
+wheels*;"6x  BRIDGESTONE R168, 6x  steel rims"
+"steering axle";YES
+"axle type";"BILL9-22S IU30/2505 33 2040-1300 (Integral, Haldex brake callipers/zaciskie hamulcowe)"
+"Chassis PDM drawing";P211-K030400
+"QAD NR";K030407
+"steering axle crossbeam";"2 291 0449 00"
+"planks holder";none
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/up/215
+"accesory, boxes and wheel holders, 1";"wheel basket (W015165 for ET-120 or W185514 for ET-0)"
+"accesory, boxes and wheel holders, 2";"toolbox Jbz700 (W191948)"
+"accesory, other, 1";none
+"accesory, side protection";"side protection when adopted for long paletbox (O204-K032615)"
+"Break pad wear sensors";NO
+"rear buffer";"roll stop- W184261"
+mudguards;"full mudguards with rainflaps only on rear axle (W973391)"
+"ferry rings";NO
+"lashing rings for fixing goods inside semi.";YES
+"1st axle lifted (steering from the cabin)";YES
+"1st and 3rd axle lifted (steering from the cabin)";NO
+Hubodometer;NO
+Lights;"Europoint II"
+"tire from Poland";YES
+"rims from Poland";YES
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"<span style=""text-decoration: line-through,"">other</span>  RENAULT: ""ORANGE VIF M-67023"""
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total)"
+"Non standard description";"ALUMINIUM FRONT WALL h 1.200 mm. AND TWO FRONT PILLARS EQUIPPED ON THE SEMI-TRAILER
+SEMI-TRAILER WITH LASHING RINGS FOR FIXING GOODS (INSIDE SEMI-TRAILER) AND SAFETYLOCK
+KTL
+FRAME AND BOARDS(FRONT+REAR+LATERALWS) PAINTED COLOUR RED RENAULT: ""ORANGE VIF M-67023"""

@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+    <title>Starter Template for Bootstrap</title>
+<style>
+ td.tab_ddt{
+   font-size:8px;
+   word-break:break-all;
+    border: 1px solid black;
+    vertical-align: top;
+  text-align: left;
+  height:45px;
+   }
+    td.tab_ddt_data{
+   font-size:8px;
+   word-break:break-all;
+    border: 1px solid black;
+    vertical-align: top;
+  text-align: left;
+  height:45px;
+   }
+   td.tab_zam{
+   font-size:12px;
+   word-break:break-all;
+    vertical-align: top;
+  text-align: left;
+   }
+   .ns_form{
+top: 20%;
+right: 5%;
+margin-top: -100px; /* Negative half of height. */
+
+display: block;
+position:fixed;
+background-color: #F3F2DF;
+padding:5% 5%;
+ box-shadow: 10px 10px 5px grey;
+  border-radius: 10px;
+  border: solid 1px #000000;
+  z-index: 9999;
+}
+</style>
+
+
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+
+ <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+ <script type="text/javascript">  //444444444444444
+$(document).ready(function(){
+     $("#datepicker1").datepicker({
+     dateFormat: 'dd.mm.yy',
+   onSelect: function(dateText, inst) { 
+      var dateAsString = dateText; //the first parameter of this function
+      var dateAsObject = $(this).datepicker( 'getDate' ); 
+     console.log(dateAsString);
+
+     document.getElementById("datepicker1").setAttribute("value",dateAsString);
+
+   }})
+  
+  
+ $(".tab_ddt" ).on("click",function(){
+         var tytul=this.innerHTML.split("<br>");
+   
+             
+             var dopisz="<div class='ns_form' style='left: 50%;'>Add to:<br>"+tytul[0]+" \
+      <br><span style='font-size:12px;'>information:</span><br> \
+      <textarea id='opis_IT' style='position:relativel;width:100%;height:240px;margin: auto;font-size:12px;'></textarea> \
+       <br><button type='button'  id='ok' nr='"+tytul[0]+"' class='btn btn-default btn-sm' >  \
+          <span class='glyphicon glyphicon-ok-sign'></span> OK \
+        </button> \
+        <button type='button' class='btn btn-default btn-sm' onclick='NO_conf_ns(this)'>  \
+          <span class='glyphicon glyphicon-remove-sign'></span> Cancel \
+        </button> \
+        <span id='przekreslone' style='display:none;'></span> \
+        <span id='przekreslone2' style='display:none;'></span> \
+        </div>";  
+             //alert(dopisz);
+         document.getElementById("NS").innerHTML=dopisz;
+         this.id=Date();
+         var id_d= this.id;
+    
+         var port=tytul[0];
+         document.getElementById("opis_IT").focus();
+      $("#ok").on("click",function(){
+            port1=port.concat('<br><span style="font-size: 20px;color:blue;">');
+           port1=port1.concat(document.getElementById("opis_IT").value);
+           port1=port1.concat("</span>");
+           
+                document.getElementById(id_d).innerHTML=port1;
+               document.getElementById("NS").innerHTML="";
+        })
+});
+});
+</script>
+  </head>
+  <body> <div id='NS' ></div><div id='tabela_DDT' name="test"><table id="tab_ddt" style="width:80%;table-layout:fixed;border-collapse: collapse;"><tbody><tr style="height:35px;">
+       <td class="tab_ddt_1" style="border: solid 1px black;">DOCUMENTO DI TRANSPORTO(D.D.T.)
+      <div style="font-size:8px">(D.P.R 14 Augusto 1996 n.472)</div></td><td class="tab_ddt" style="border: solid 1px black;">LUGO DI PROVENZIA<div>Stab.</div></td>
+       <td class="tab_ddt" style="border: solid 1px black;">N.</td><td class="tab_ddt_data" style="border: solid 1px black;">DATA
+       <p><input type="text" id="datepicker1" style="font-size:20px;border: none;width:90%;" value="23.11.2017" ></p>
+      </td></tr></tbody></table>
+      <br><table class="table1" style="width:100%;border-collapse: collapse;"><tbody><tr style="height:100px;">
+      <td style="border: solid 1px black;" class="tab_ddt" id="Mon Nov 20 2017 11:54:49 GMT 0100 (Środkowoeuropejski czas stand.)">CESSIONARIO - DOMICILIO O REZIDENZA<br><span style="font-size: 20px;color:blue;">test</span></td>
+      <td style="border: solid 1px black;" class="tab_ddt">LUOGO DI DESTINAZIONE</td></tr></tbody></table><br>
+      <table id="tab_ddt" class="table1" style="width:100%;border-collapse: collapse;"><tbody><tr style="height:60px;">
+      <td style="border: solid 1px black;" class="tab_ddt">PAG.
+      </td>
+      <td style="border: solid 1px black;" class="tab_ddt">TRANSPORTO A CURA</td>
+       <td style="border: solid 1px black;" class="tab_ddt">PORTO</td>
+       </tr></tbody></table><br><table id="tab_ddt" class="table1" style="width:100%;table-layout:fixed;border-collapse: collapse;"><tbody><tr style="height:35px;">
+       </tr></tbody><colgroup><col width="5%">
+       <col width="40%">
+       <col width="40%">
+       <col width="8%">
+      <col width="8%">
+       <col width="8%">
+       <col width="8%">
+       </colgroup><tbody><tr><td style="border: solid 1px black;width:5%;" class="tab_ddt_data">RIGA</td>
+       <td style="border: solid 1px black;" class="tab_ddt_data" colspan="4">DESCRIZIONE DEI BENI (NATURA E QUALITA)</td>
+       <td style="border: solid 1px black;width:8%;" class="tab_ddt_data">U.M.</td>
+       <td style="border: solid 1px black;width:8%;" class="tab_ddt_data">QUANTITA</td>
+       </tr>
+       <tr style="height:200px;">
+       <td class="tab_ddt" style="border: solid 1px black;" id="Mon Nov 20 2017 11:54:54 GMT 0100 (Środkowoeuropejski czas stand.)"></td>
+       <td class="tab_zam" style="border: solid 1px black;" colspan="4">Categoria  -  NS3K/KB/KO M2-IT (107mm neck)<br>Typ  -  NS3KBM2-IT<br>produttore di assi  -  SAF Disc<br>Calliper  -  Haldex<br>opzioni  -  Curtainsider with dropsides<br>tipo di struttura superiore  -  Curtainsider with dropsides<br>cerniere per goccia  -  Si<br>tasca per pilastri hestal  -  Si<br>lunga scatola pallet  -  NON<br>tasche per pilastri 80x80  -  none<br>KTL  -  Si<br>Nominale ralla  -  1150<br>(vero ralla)  -  1145<br>dimensioni della ruota  -  385/65/R22,5<br>ruote  -  6x tire, 6x rims<br>asse sterzante  -  NON<br>tipo asse  -  BI9-22S IU30/2505 33 2040-1300 (Integral, Haldex brake callipers/zaciskie hamulcowe)<br>Telaio PDM disegno  -  O294-W125130<br>QAD NR  -  K030144<br>dropside  -  K031360- H800-L3185-bolted with eyelets fixed to 2nd plank from bottom<br>upper structure according to drawing:  -  <br>front wall  -  Viberti parete anteriore<br>upper structure  -  M3 (aluminium rear pillars and doors, all elements from PL)<br>roof type  -  lift to load<br>internal heights  -  2700<br>upper structure planks  -  3 rows of alu planks 100mm<br>portacarta  -  W125086 - left<br>gambe di atterraggio / lunghezza / piede / posizione / terreno dis.  -  L500S750/1450/S/up/324<br>accessorio, scatole e supporti ruota, 1  -  toolbox Jbz700 (W191948)<br>accessorio, scatole e supporti ruota, 2  -  double wheel basket (W755340)<br>accesory, other, 1  -  none<br>accessorio, protezione laterale  -  side protection standard(2x w030388  4x M142301)<br>Sensori di usura del freno  -  Knorr break pad wear sensors K025586 (Knorr sensors WABCO wire 449 816 030 0) - chassis was changed, NOT AVAILABLE or need to be verificated, choose again this option<br>buffer posteriore  -  roll stop- W184261<br>full mudguards  -  <br>anelli di traghetti  -  Si<br>anelli di fissaggio per la fissazione di merci all'interno di semi.  -  Si<br>1 ° asse sollevato (sterzo da cabina)  -  Si<br>Luci  -  Aspock Europoint III - chassis was changed, NOT AVAILABLE or need to be verificated, choose again this option<br>pneumatico dalla Polonia  -  NON<br>cerchi da Polonia  -  NON<br>Presa di corrente elettrica  -  2x 7pin   1x 15 pin<br>colore del telaio  -  KTL   7021- gray<br>Profilo del paraurti posteriore, colore del profilo di fissaggio chiaro  -  Standard RAL 9003<br>Colore del mozzo della ruota  -  Orginale<br>Colore del mozzo della ruota  -  Standard (aluminum)<br>Colore del pilastro anteriore  -  Standard RAL9006<br>Rear pillar  -  Standard RAL9006<br>Rear door  -  Orginale<br>Hestal  -  Orginale<br>tarpaulin No.  -  none<br>tarpaulin color  -  default<br>tarpaulin with graphic  -  NON<br>back doors with graphic  -  NON<br>informazioni sulla configurazione standard  -  brake system is Wabco, aluminium air tanks (160 litre total)<br>Descrizione non standard  :  M3 version , aluminum doors from pl <br>knorr caliper ,                             <br>EP3<br>steel airtanks 2x60<br>all included<br><br>NR.TELAIO  :  ZB3M300010Y066714</td>
+       <td class="tab_ddt" style="border: solid 1px black;"></td>
+       <td class="tab_ddt" style="border: solid 1px black;"></td>
+       </tr>
+       <tr style="height:60px;">
+       <td style="border: solid 1px black;" class="tab_ddt" colspan="2">ASPETTO ESTERIORE DEI BENI</td>
+       <td style="border: solid 1px black;" class="tab_ddt">CASUALE TRANSPORTO</td>
+       <td style="border: solid 1px black;" class="tab_ddt" colspan="2">TOTALE COLLI</td>
+       <td style="border: solid 1px black;" class="tab_ddt" colspan="2">TOTALE PESO KG.</td>
+       </tr>
+       
+       <tr style="height:60px;">
+       <td style="border: solid 1px black;" class="tab_ddt" colspan="2" rowspan="2">VETTORI - INCARICATO DEL TRANSPORTO</td>
+       <td style="border: solid 1px black;" class="tab_ddt">DATA E ORA RITIRO</td>
+       <td style="border: solid 1px black;" class="tab_ddt" colspan="4">FIRMA INCARICATO DEL TRANSPORTO</td>
+       </tr>
+       
+       <tr style="height:60px;">
+       <td style="border: solid 1px black;" class="tab_ddt">DATE E ORA RITIRO</td>
+       <td style="border: solid 1px black;" class="tab_ddt" colspan="4">FIRMA INCARICATO DEL TRANSPORTO</td>
+       </tr>
+       <tr style="height:60px;">
+       <td style="border: solid 1px black;" class="tab_ddt" colspan="3">ANNOTAZIONI<div>Tel. per preavv.:</div></td>
+       <td style="border: solid 1px black;" class="tab_ddt" colspan="4">FIRMA DEL DESTINATARI</td>
+       </tr>
+       </tbody></table></div><button class="but" id="send_email" onclick="rer(this)">Save</button>
+   <script>
+    function NO_conf_ns(to){
+    document.getElementById("NS").innerHTML="";
+}
+  function rer(col){
+var tabelka=document.getElementById("tabela_DDT").innerHTML;
+var zam=document.getElementById("tabela_DDT").getAttribute("name");
+
+    var col="o";
+
+
+if (col == "") {
+document.getElementById("txtHint2").innerHTML = "";
+
+return;
+} else {
+
+if (window.XMLHttpRequest) {
+// code for IE7+, Firefox, Chrome, Opera, Safari
+xmlhttp = new XMLHttpRequest();
+} else {
+    // code for IE6, IE5
+    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+}
+xmlhttp.onreadystatechange = function() {
+    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+        document.getElementById("txtHint2").innerHTML = xmlhttp.responseText;
+    }
+}
+
+
+var adre='g.szkop@wielton.com.pl';
+
+
+
+
+var  col2='';
+
+    var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("txtHint2").innerHTML = this.responseText;
+    }
+  };
+  var wiadomosc= "q=".concat(tabelka);
+      wiadomosc=wiadomosc.concat('&zam=');
+      wiadomosc=wiadomosc.concat(zam);
+  xhttp.open("POST", "../tab_DDT.php", true);
+  xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+  xhttp.send(wiadomosc);
+   document.getElementById("tabela_DDT").innerHTML = zam;
+   document.getElementById("send_email").remove();
+}}
+  </script> </body>
+</html>

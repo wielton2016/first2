@@ -1,0 +1,58 @@
+"Order No (v2)";"566 KM"
+"PL order No.";
+Client;"stock "
+"Delivery address to client";tocco
+VIN;ZB3M300010Y066783
+"Production slot (week)";5
+Units;1
+Brand;Viberti
+Category;"Coil (107mm neck)"
+Typ;"<span style=""text-decoration: line-through,"">NS3KRBM2-IT</span>  NS3K0RBM2-IT"
+"axle producer";"SAF Disc"
+Calliper;Haldex
+options;"rear dropside, 2 pockets in front, 2 in rear,6 pairs of pockets in side profiles for 80x80 pillars"
+"upper structure type";"Curtainsider with dropsides"
+"hinges for dropsides";YES
+"pocket for hestal pillars";"No Hestal, Pockets for Kinnegrip pillars (not avalible, only on special request)"
+"long palletbox";NO
+"pockets for 80x80 pillars";"2 pockets in front, 2 in rear,6 pairs of pockets in side profiles for 80x80 pillars"
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1145
+"wheel size";385/65/R22,5
+wheels*;"6x  BRIDGESTONE R168, 6x  steel rims"
+"steering axle";YES
+"axle type";"BILL9-22S IU30/2505 33 2040-1300 (Integral, Haldex brake callipers/zaciskie hamulcowe)"
+"Chassis PDM drawing";P090-K033920
+"QAD NR";K034194
+"steering axle crossbeam";"2 291 0449 00"
+"upper structure according to drawing:";"K034210 - wall 1200, dropsides H800, slim profile 3nd from the bottom, no eyelets"
+"planks holder";none
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/up/324
+"accesory, boxes and wheel holders, 1";"toolbox Jbz700 (W191948) + wheel basket (W015165 for ET-120 or W185514 for ET-0)"
+"accesory, boxes and wheel holders, 2";"ADR: extinguisher, extinguisher toolbox on landing leg(W983059), ADR plate, grounding strap (m07050305), assembly one wedge on mail beam (W100067) becouse of extinguisher box"
+"accesory, other, 1";"4 pillars for Coil H-1500mm, 2x W218828  (one W218828 includes: 2x pillar W212304, 1x crossbeam W212266, 1x strap M141224)"
+"accesory, side protection";"side protection standard(2x w030388+ 4x M142301)"
+"Break pad wear sensors";"brake pad wear sensors K178000 (3424203300 HALDEX +WABCO wire 449 816 030 0)"
+"rear buffer";"double rollers- W857010"
+mudguards;"full mudguards with rainflaps only on rear axle (W973391)"
+"ferry rings";YES
+"lashing rings for fixing goods inside semi.";YES
+"1st axle lifted (steering from the cabin)";YES
+"Antispray on all mudguards";NO
+Lights;"Europoint II"
+"tire from Poland";NO
+"rims from Poland";NO
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"Front pillar";"Standard RAL9006"
+"Rear pillar";"Standard RAL9006"
+"Front wall color";"Standard RAL9006"
+"Rear door";Original
+Hestal;Original
+"back doors with graphic";NO
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total)"
+"Non standard description";

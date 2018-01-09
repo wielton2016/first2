@@ -1,0 +1,59 @@
+"Order No (v1)";1882_FC062017
+"PL order No.";
+Client;DECO
+"Delivery address to client";Tocco
+VIN;ZB3M300010Y066172
+"Production slot (week)";43
+Units;1
+Brand;Viberti
+Category;"Strong- rear dropside"
+Typ;"NS3KBO-IT STRONG "
+"axle producer";"SAF Disc"
+Calliper;Haldex
+options;"13 pairs of lash rings, without hestal pockets, with hinges"
+"upper structure type";platform
+"hinges for dropsides";YES
+"pocket for hestal pillars";NO
+"long palletbox";NO
+"pockets for 80x80 pillars";none
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1150
+"wheel size";385/65/R22,5
+wheels*;"6x BRIDGESTONE R168, 7x  steel rims"
+"steering axle";YES
+"axle type";"BILL9-22S IU33/2510 33 2040-1300 (Integral, Haldex brake callipers/zaciskie hamulcowe)"
+"Chassis PDM drawing";P118-K031850
+"QAD NR";K031850
+"steering axle crossbeam";"2 291 0449 00"
+"upper structure according to drawing:";"K034210 - wall 1200, dropsides H800, slim profile 3nd from the bottom, no eyelets"
+"planks holder";-
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/down/220
+"accessory 1";"toolbox Jbz700 (W191948) + wheel basket (W015165 for ET-120 or W185514 for ET-0)"
+"accessory 2";"Pommier document box 3805130, bought and assembled by IR"
+"accessory 3";none
+"accessory 4";none
+"accessory 5";"ADR:extinguisher, extinguisher toolbox (W983059), ADR plate,  grounding strap (m07050305)"
+"Break pad wear sensors";"brake pad wear sensors K178000 (3424203300 HALDEX +WABCO wire 449 816 030 0)"
+"rear buffer";"double rollers- W857010"
+"full mudguards";YES
+"ferry rings";YES
+"lashing rings for fixing goods inside semi.";YES
+"1st axle lifted (steering from the cabin)";YES
+"1st and 3rd axle lifted (steering from the cabin)";NO
+Hubodometer;NO
+"Antispray on all mudguards";NO
+Lights;"Europoint II"
+"tire from Poland";NO
+"rims from Poland";NO
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"Front pillar";"Standard RAL9006"
+"Rear pillar";"Standard RAL9006"
+"Rear door";Original
+Hestal;Original
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total)"
+"Non standard description";

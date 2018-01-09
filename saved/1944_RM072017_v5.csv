@@ -1,0 +1,39 @@
+"Order No (v5)";1944_RM072017
+"PL order No.";QR0400
+Client;Stock
+"Delivery address to client";"tocco "
+VIN;ZB3M311M3CC066475
+"Production slot (week)";"37 (to deliver with QR0378)"
+Units;1
+Brand;Viberti
+Category;"slider light-without twistlock for tank 20"
+Typ;NS3P45R3-IT
+"axle producer";"SAF Disc"
+"Nominal5 wheel";1200
+"(real 5 wheel)";1200
+"wheel size";385/65/R22,5
+wheels*;"6x  BRIDGESTONE R164, 6x  steel rims"
+"steering axle";NO
+"axle type";"BI9-22S IU35/3010 33 2040-1300 (Integral, Haldex brake callipers/zaciskie hamulcowe)"
+"Chassis PDM drawing";P040-K060792
+"QAD NR";K060792
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1025/S/-/247
+"accessory 1";"toolbox Jbz700 (k058006) + spare wheel winch (k032021 for ET120)"
+"accessory 2";"ADR:extinguisher, extinguisher toolbox (W983059), ADR plate,  grounding strap (m07050305)"
+"accessory 3";none
+"accessory 8";none
+"Break pad wear sensors";NO
+"full mudguards";YES
+"ferry rings";YES
+"1st axle lifted (steering from the cabin)";YES
+"1st and 3rd axle lifted (steering from the cabin)";NO
+Hubodometer;NO
+"Antispray on all mudguards";NO
+Lights;"Europoint II"
+"tire from Poland";YES
+"rims from Poland";YES
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total)"
+"Non standard description";

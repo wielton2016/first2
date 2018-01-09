@@ -1,0 +1,40 @@
+"Order No (v4)";2127_GT102017
+"PL order No.";"QS0003 QS0004"
+Client;
+"Delivery address to client";"Orab (Podenzano)"
+VIN;"ZB3M31245CC066704 - ZB3M31245CC066705"
+"Production slot (week)";1
+Units;2
+Brand;Viberti
+Category;"Container goose neck"
+Typ;"NS3P40-IT GooseNeck"
+"axle producer";"SAF Disc"
+Calliper;Haldex
+options;"Configuration 1, axles with Tire Pilot"
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1170
+"wheel size";385/65/R22,5
+wheels*;"6x  BRIDGESTONE R168, 7x  steel rims"
+"steering axle";NO
+"axle type";"BI9-22S IU30/2505 33 2040-1300 (Integral, Haldex brake callipers/zaciskie hamulcowe), with Tire Pilot"
+"Chassis PDM drawing";P005-W994650
+"QAD NR";K234724
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/-/230
+"accessory 1";"toolbox Jbz700 (W191948) + wheel basket  (W017307 for ET120)"
+"accessory 2";"ADR: extinguisher, extinguisher toolbox on landing leg(W983059), ADR plate, grounding strap (m07050305), assembly one wedge on mail beam (W100067) becouse of extinguisher box"
+"Break pad wear sensors";"brake pad wear sensors K178000 (3424203300 HALDEX +WABCO wire 449 816 030 0)"
+"full mudguards";YES
+"ferry rings";YES
+"1st axle lifted (steering from the cabin)";YES
+Hubodometer;YES
+Lights;"Europoint II"
+"tire from Poland";YES
+"rims from Poland";YES
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total), Speed limits 70 and 80 on the rear (K033319)"
+"Non standard description";" SAF TIRE PILOT-included"

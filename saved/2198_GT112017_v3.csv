@@ -1,0 +1,65 @@
+"Order No (v3)";2198_GT112017
+"PL order No.";WS0317
+Client;"EFFECI SERVICE"
+"Delivery address to client";"Tocco + Orab"
+VIN;ZB3M4002Y00066774
+"Production slot (week)";"3 or 4"
+Units;1
+Brand;Viberti
+Category;"city 10.3"
+Typ;"NS2KM2-IT City"
+"axle producer";"BPW Disc"
+options;"Dholandia lift DH-SO7, curtainsider"
+"upper structure type";curtainsider
+"hinges for dropsides";NO
+"pocket for hestal pillars";YES
+"long palletbox";NO
+"pockets for 80x80 pillars";NO
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1150
+"wheel size";385/55/R22,5
+wheels*;"6x  MICHELIN Mulit T, 6x  steel rims"
+"steering axle";YES
+"axle type";"SHBFH..LL  9010 ALMT D430-TSB OF120 1300 - 2040  (2 axle)"
+"Chassis PDM drawing";P164-K031230
+"QAD NR";K031241
+"steering axle crossbeam";"C-Trager 05.445.56.98.0"
+"front wall";"Viberti front wall"
+"upper structure";"M2 (front wall from PL, rear by IT)"
+"roof type";"lift to load"
+"internal heights";2650
+"upper structure planks";"4 rows of alu planks 100mm (1 on floor + 3 per section)"
+"accessory 1";"2x toolbox Jbz700 (W003497)"
+"accessory 2";"ADR:extinguisher, extinguisher toolbox (W019972), ADR plate,  grounding strap (m07050305)"
+"accessory 3";"Plastic water tank (W019974)"
+"accessory 4";"wheel basket (W015165 for ET-120 or W185514 for ET-0)"
+"Break pad wear sensors";YES
+"rear buffer";"roll stop- W184261"
+"full mudguards";YES
+"ferry rings";YES
+"lashing rings for fixing goods inside semi.";NO
+"1st axle lifted (steering from the cabin)";YES
+Hubodometer;NO
+"Antispray on all mudguards";YES
+Lights;"Europoint II"
+"tire from Poland";NO
+"rims from Poland";NO
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"Front pillar";"Standard RAL9006"
+"Rear pillar";"Standard RAL9006"
+"Front wall color";"Standard RAL9006"
+"Rear door";Original
+Hestal;Original
+"tarpaulin No.";none
+"tarpaulin color";default
+"tarpaulin with graphic";NO
+"back doors with graphic";NO
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total)"
+"Non standard description";"4 rows of alu planks
+Rear lift Dhollandia 
+Tarpaulin XL Blu 537 (panama 1200 il telone)"

@@ -1,0 +1,48 @@
+"Order No (v1)";2222_GT102017
+"PL order No.";
+Client;"Testa Tiziano"
+"Delivery address to client";Orab
+VIN;ZB3M31220GN066843-844-845
+"Production slot (week)";10
+Units;3
+Brand;Viberti
+Category;"Mutti, 20-tank"
+Typ;"NS3P20 Tank-IT"
+"axle producer";"BPW Disc"
+KTL;YES
+"Nominal5 wheel";1230
+"(real 5 wheel)";1230
+"wheel size";385/65/R22,5
+wheels*;"6x  BRIDGESTONE R164, 6x  aluminum Brushed rims"
+"steering axle";NO
+"axle type";"BPW AC.BM SHBF 9010 (T) 2140-1300 V30"
+"Chassis PDM drawing";P088-W998271
+"QAD NR";W998271
+"landing legs/shaft length/foot/position/ground dis.";B0603/1500/S/up/289
+toolbox;"toolbox Jbz700 (W998987)"
+"wheel holder";"spare wheel winch (W030434 for ET120)"
+"accesory, other, 1";"Reflective tape on both sides (white), reflective tape on rear (YELLOW)"
+"accesory, other, 2";"ADR:extinguisher, extinguisher toolbox (W981125), ADR plate (W996026),  grounding strap (m07050305)"
+"accesory, other, 3";"Yellow check point for wheel nuts (60 x m182207)"
+"Break pad wear sensors";"brake pad wear sensors for BPW W997094 (WABCO)"
+"full mudguards";YES
+"ferry rings";YES
+"1st axle lifted (steering from the cabin)";NO
+"3rd axle lifted (steering from the cabin)";YES
+Hubodometer;YES
+"Antispray on all mudguards";NO
+Lights;"Europoint II"
+"tire from Poland";YES
+"rims from Poland";YES
+"Electric socket";"1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total), Inox backwater tank with inox catwalk and valve to discharge, rear ledder"
+"Non standard description";"Third liftig axle. First axle fixed.
+Reflective tape on both sides (white) - Reflective tape on rear (YELLOW)
+Inox backwater tank with inox catwalk and valve to discharge
+HUBODOMETER
+Rear ledder - PVC tool box with lock
+Yellow check point for wheel nuts
+"

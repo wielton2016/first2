@@ -1,0 +1,69 @@
+"Order No (v10)";2207_GT112017
+"PL order No.";" RS0099"
+Client;"Golini Trasporti Logistica"
+"Delivery address to client";"Tocco + Orab"
+VIN;ZB3M3000Y1066773
+"Production slot (week)";3
+Units;1
+Brand;Chooses
+Category;"Coil (107mm neck)"
+Typ;NS3KRBM3-IT
+"axle producer";"SAF Disc"
+Calliper;Knorr
+options;"Knorr calliper, curtainsider with dropsides, long paletbox, 2 pockets in front at 1239 cm from the front, 6 pairs of pockets in side profiles for 80x80 pillars"
+"upper structure type";"Curtainsider with dropsides"
+"hinges for dropsides";YES
+"pocket for hestal pillars";YES
+"long palletbox";YES
+"pockets for 80x80 pillars";"2 pockets in front at 1239 cm from the front, 6 pairs of pockets in side profiles for 80x80 pillars"
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1145
+"wheel size";385/65/R22,5
+wheels*;"6x  CONTINENTAL HT3, 6x  steel rims"
+"steering axle";YES
+"axle type";"BILL9-22S01 IU30/2505 33 2040-1300 (Integral, Knorr brake callipers/zaciski hamulcowe)"
+"Chassis PDM drawing";P090-K234770
+"QAD NR";K234779
+"steering axle crossbeam";"2 291 0449 00"
+dropside;"K234790- H800-L3185-bolted, slim profile second from the bottom, no eyeletes"
+"front wall";"Viberti front wall"
+"upper structure";"M3 (aluminium rear pillars and doors, all elements from PL)"
+"roof type";multipoint
+"double plywood on front wall";NO
+"internal heights";2700
+"upper structure planks";"4 rows of alu planks 100mm"
+"planks holder";none
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/up/215
+"accesory, boxes and wheel holders, 1";"2x toolbox Jbz700 (W191948) + wheel basket (W015165 for ET-120 or W185514 for ET-0)"
+"accesory, boxes and wheel holders, 2";"Pommier document box 3805130, bought and assembled by IR"
+"accesory, side protection";"side protection when adopted for long paletbox (O204-K032615)"
+"accessory 1";"4 pillars for Coil H-1500mm, 2x W218828  (one W218828 includes: 2x pillar W212304, 1x crossbeam W212266, 1x strap M141224)"
+"Break pad wear sensors";"Knorr break pad wear sensors K025586 (Knorr sensors+WABCO wire 449 816 030 0)"
+"rear buffer";"roll stop- W184261"
+mudguards;"full mudguards with rainflaps only on rear axle (W973391)"
+"ferry rings";YES
+"lashing rings for fixing goods inside semi.";YES
+"1st axle lifted (steering from the cabin)";"YES (axle lift K234900 according to drawing M059-W223488)"
+Lights;"Aspock Europoint III (with bulbs)"
+"tire from Poland";NO
+"rims from Poland";NO
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"Front pillar";"Standard RAL9006"
+"Rear pillar";"Standard RAL9006"
+"Front wall color";"Standard RAL9006"
+"Rear door";Original
+Hestal;Original
+"tarpaulin No.";none
+"tarpaulin color";default
+"tarpaulin with graphic";NO
+"back doors with graphic";NO
+"information abour standard configuration";"brake system is Wabco, steel air tanks (120 litre total, 2x K234810)"
+"Non standard description";"front  hole for pillars at 1239 cm from the front board as drow sent- included
+not 2 rear hole for pillars-included
+slim profile second from the bottom, no eyeletes- included
+Tarpaulin XL with specification request by the customer"

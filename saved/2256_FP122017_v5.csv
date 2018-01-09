@@ -1,0 +1,49 @@
+"Order No (v5)";2256_FP122017
+"PL order No.";
+Client;"De Bernardi"
+"Delivery address to client";Tocco
+VIN;"ZB3M4000Y00066841 -66842"
+"Production slot (week)";9
+Units;2
+Brand;Viberti
+Category;VAN
+Typ;NS2FM2-IT
+"axle producer";"SAF Disc"
+Calliper;Haldex
+options;"2 axle"
+KTL;YES
+"Nominal5 wheel";1150
+"(real 5 wheel)";1145
+"wheel size";385/65/R22,5
+wheels*;"4x  CONTINENTAL HT3, 4x  steel rims"
+"steering axle";NO
+"axle type";"BI9-22S IU30/2505 33 2040-1300 (Integral, Haldex brake callipers/zaciskie hamulcowe, tristops on all axles)"
+"Chassis PDM drawing";P251-K030960
+"QAD NR";K030966
+"upper structure according to drawing:";"W951520-doors-1 horizontal row 1205 from floor, all elements from Poland except: side, roof and front wall panels"
+"internal heights";2750
+"landing legs/shaft length/foot/position/ground dis.";L500S750/1450/S/up/324
+"accessory 1";"toolbox Jbz700 (W191948) + wheel basket (W015165 for ET-120 or W185514 for ET-0)"
+"accessory 2";none
+"accessory 3";"Pommier document box 3805130, bought and assembled by IR"
+"accessory 4";"internal light (3x M07030401)"
+"Break pad wear sensors";NO
+"rear buffer";"double rollers- W857010"
+"full mudguards";YES
+"ferry rings";NO
+"lashing rings for fixing goods inside semi.";YES
+"1st axle lifted (steering from the cabin)";NO
+Lights;"Europoint II"
+"tire from Poland";NO
+"rims from Poland";NO
+"Electric socket";"2x 7pin + 1x 15 pin"
+Frame;"KTL + 7021- gray"
+"Rear bumper profile, light fixing profile";"Standard RAL 9003"
+"Wheel hub";Original
+"Side protection color";"Standard (aluminum)"
+"Front pillar";"Standard RAL 9010"
+"Rear pillar";"Standard RAL 9010"
+"Front wall color";"Standard RAL 9010"
+"Rear door";Original
+"information abour standard configuration";"brake system is Wabco, aluminium air tanks (160 litre total)"
+"Non standard description";"For VBT, ADR documentation"
